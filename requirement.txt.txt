@@ -1,0 +1,10 @@
+ultralytics==8.0.80
+gdown==4.7.0
+IPython==7.34.0
+fastapi
+uvicorn
+torch
+opencv-python
+pillow
+numpy
+
